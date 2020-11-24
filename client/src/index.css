@@ -1,0 +1,8 @@
+@import './styles/base.css';
+@import './styles/reset.css';
+@import './styles/utilities.css';
+@import './styles/navbar.css';  
+@import './styles/error.css';
+@import './styles/form.css';
+@import './styles/button.css';
+@import './styles/polls.css';
