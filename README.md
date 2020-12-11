@@ -3,7 +3,7 @@ this is an application to do votes
 
 
 # React App using Redux
-  - the importance of this project is the implementation fo redux using the best practices
+  - the importance of this project is the implementation of redux using the best practices
   - the backend was created with NodeJS and express
   - the database is created with MongoDB
   
